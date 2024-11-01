@@ -1,5 +1,7 @@
 All rights to the OpenMoHAA team for their amazing work on OpenMoHAA, i am only attempting to get this working on the RG35XX H device.
 
+Disclaimer:
+There is no guarentee this will be released in a fully working build for the RG35XX H, if your aim is to play openmohaa on a windows, mac or linux machine please go to the main directory, the developers do an amazing job, This is an experement to ascertain if it is even possable!
 
 
 # OpenMoHAA
