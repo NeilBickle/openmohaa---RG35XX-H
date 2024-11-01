@@ -1,3 +1,7 @@
+All rights to the OpenMoHAA team for their amazing work on OpenMoHAA, i am only attempting to get this working on the RG35XX H device.
+
+
+
 # OpenMoHAA
 
 [![Build](https://github.com/openmoh/openmohaa/actions/workflows/branches-build.yml/badge.svg?branch=main)](https://github.com/openmoh/openmohaa/actions/workflows/branches-build.yml) [![Release](https://img.shields.io/github/v/release/openmoh/openmohaa)](https://github.com/openmoh/openmohaa/releases) [![Downloads](https://img.shields.io/github/downloads/openmoh/openmohaa/total)](https://github.com/openmoh/openmohaa/releases)
